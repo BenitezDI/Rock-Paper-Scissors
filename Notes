@@ -1,0 +1,7 @@
+# This is a comment, use them a lot
+
+#math operations,there are 6 
+# +-, -, *, /, **, (exponents), % (modulo division)
+print(4+8)#12
+print (8-2)#6
+print(-3)
